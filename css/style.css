@@ -139,7 +139,7 @@ a {
 }
 .ba-hero {
   background-color: #c1c1c1;
-  background-image: url(../../img/Background.jpg);
+  background-image: url(../img/Background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   min-height: 500px;
